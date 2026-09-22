@@ -1,2 +1,3 @@
 # Git-Demo
-This is my git repository 
+This is my git repository.
+Author - Ravi VC 
